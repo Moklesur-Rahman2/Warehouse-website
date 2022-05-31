@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Abbas Printers",
+        "location": "90 Bagbari Mirpur"
+    },
+    {
+        "id": 2,
+        "name": "Adpark",
+        "location": "Shahid Sayed Nazrul Islam Sharani"
+    },
+    {
+        "id": 3,
+        "name": "Adron Publication",
+        "location": "29, Segunbagicha"
+    },
+    {
+        "id": 4,
+        "name": "Afsar Brothers",
+        "location": "38/4, Banglabazar"
+    },
+    {
+        "id": 5,
+        "name": "Ahasan Publication",
+        "location": "Bijoynagar"
+    }
+]
